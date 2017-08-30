@@ -1,0 +1,11 @@
+
+# Data File #
+#############
+
+model/
+data/
+board/
+result/
+*.jpg
+*.bmp
+*.png
